@@ -50,7 +50,7 @@ case "$AREA_CODE" in
         AREA="개인 번호"
         ;;
     *)
-        AREA="알 수 없는 지역 번호"
+        AREA="알 수 없는 지역 번호임"
         ;;
 esac
 
